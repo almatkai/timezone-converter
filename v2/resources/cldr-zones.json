@@ -1,0 +1,4290 @@
+{
+  "intervals": {
+    "Africa/Abidjan": [
+      [
+        null,
+        null,
+        "GMT"
+      ]
+    ],
+    "Africa/Accra": [
+      [
+        null,
+        null,
+        "GMT"
+      ]
+    ],
+    "Africa/Addis_Ababa": [
+      [
+        null,
+        null,
+        "Africa_Eastern"
+      ]
+    ],
+    "Africa/Algiers": [
+      [
+        null,
+        246236400000,
+        "Europe_Western"
+      ],
+      [
+        246236400000,
+        309740400000,
+        "Europe_Central"
+      ],
+      [
+        309740400000,
+        357523200000,
+        "Europe_Western"
+      ],
+      [
+        357523200000,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Africa/Asmera": [
+      [
+        null,
+        null,
+        "Africa_Eastern"
+      ]
+    ],
+    "Africa/Bamako": [
+      [
+        null,
+        null,
+        "GMT"
+      ]
+    ],
+    "Africa/Bangui": [
+      [
+        null,
+        null,
+        "Africa_Western"
+      ]
+    ],
+    "Africa/Banjul": [
+      [
+        null,
+        null,
+        "GMT"
+      ]
+    ],
+    "Africa/Bissau": [
+      [
+        null,
+        157770000000,
+        "Africa_FarWestern"
+      ],
+      [
+        157770000000,
+        null,
+        "GMT"
+      ]
+    ],
+    "Africa/Blantyre": [
+      [
+        null,
+        null,
+        "Africa_Central"
+      ]
+    ],
+    "Africa/Brazzaville": [
+      [
+        null,
+        null,
+        "Africa_Western"
+      ]
+    ],
+    "Africa/Bujumbura": [
+      [
+        null,
+        null,
+        "Africa_Central"
+      ]
+    ],
+    "Africa/Cairo": [
+      [
+        null,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Africa/Casablanca": [
+      [
+        null,
+        448243200000,
+        "Europe_Western"
+      ],
+      [
+        448243200000,
+        504918000000,
+        "Europe_Central"
+      ],
+      [
+        504918000000,
+        1540692000000,
+        "Europe_Western"
+      ]
+    ],
+    "Africa/Ceuta": [
+      [
+        null,
+        448243200000,
+        "Europe_Western"
+      ],
+      [
+        448243200000,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Africa/Conakry": [
+      [
+        null,
+        null,
+        "GMT"
+      ]
+    ],
+    "Africa/Dakar": [
+      [
+        null,
+        null,
+        "GMT"
+      ]
+    ],
+    "Africa/Dar_es_Salaam": [
+      [
+        null,
+        null,
+        "Africa_Eastern"
+      ]
+    ],
+    "Africa/Djibouti": [
+      [
+        null,
+        null,
+        "Africa_Eastern"
+      ]
+    ],
+    "Africa/Douala": [
+      [
+        null,
+        null,
+        "Africa_Western"
+      ]
+    ],
+    "Africa/El_Aaiun": [
+      [
+        null,
+        198291600000,
+        "Africa_FarWestern"
+      ],
+      [
+        198291600000,
+        1540692000000,
+        "Europe_Western"
+      ]
+    ],
+    "Africa/Freetown": [
+      [
+        null,
+        null,
+        "GMT"
+      ]
+    ],
+    "Africa/Gaborone": [
+      [
+        null,
+        null,
+        "Africa_Central"
+      ]
+    ],
+    "Africa/Harare": [
+      [
+        null,
+        null,
+        "Africa_Central"
+      ]
+    ],
+    "Africa/Johannesburg": [
+      [
+        null,
+        null,
+        "Africa_Southern"
+      ]
+    ],
+    "Africa/Juba": [
+      [
+        null,
+        947930400000,
+        "Africa_Central"
+      ],
+      [
+        947930400000,
+        1612126800000,
+        "Africa_Eastern"
+      ],
+      [
+        1612126800000,
+        null,
+        "Africa_Central"
+      ]
+    ],
+    "Africa/Kampala": [
+      [
+        null,
+        null,
+        "Africa_Eastern"
+      ]
+    ],
+    "Africa/Khartoum": [
+      [
+        null,
+        947930400000,
+        "Africa_Central"
+      ],
+      [
+        947930400000,
+        1509483600000,
+        "Africa_Eastern"
+      ],
+      [
+        1509483600000,
+        null,
+        "Africa_Central"
+      ]
+    ],
+    "Africa/Kigali": [
+      [
+        null,
+        null,
+        "Africa_Central"
+      ]
+    ],
+    "Africa/Kinshasa": [
+      [
+        null,
+        null,
+        "Africa_Western"
+      ]
+    ],
+    "Africa/Lagos": [
+      [
+        null,
+        null,
+        "Africa_Western"
+      ]
+    ],
+    "Africa/Libreville": [
+      [
+        null,
+        null,
+        "Africa_Western"
+      ]
+    ],
+    "Africa/Lome": [
+      [
+        null,
+        null,
+        "GMT"
+      ]
+    ],
+    "Africa/Luanda": [
+      [
+        null,
+        null,
+        "Africa_Western"
+      ]
+    ],
+    "Africa/Lubumbashi": [
+      [
+        null,
+        null,
+        "Africa_Central"
+      ]
+    ],
+    "Africa/Lusaka": [
+      [
+        null,
+        null,
+        "Africa_Central"
+      ]
+    ],
+    "Africa/Malabo": [
+      [
+        null,
+        null,
+        "Africa_Western"
+      ]
+    ],
+    "Africa/Maputo": [
+      [
+        null,
+        null,
+        "Africa_Central"
+      ]
+    ],
+    "Africa/Maseru": [
+      [
+        null,
+        null,
+        "Africa_Southern"
+      ]
+    ],
+    "Africa/Mbabane": [
+      [
+        null,
+        null,
+        "Africa_Southern"
+      ]
+    ],
+    "Africa/Mogadishu": [
+      [
+        null,
+        null,
+        "Africa_Eastern"
+      ]
+    ],
+    "Africa/Monrovia": [
+      [
+        null,
+        63593100000,
+        "Liberia"
+      ],
+      [
+        63593100000,
+        null,
+        "GMT"
+      ]
+    ],
+    "Africa/Nairobi": [
+      [
+        null,
+        null,
+        "Africa_Eastern"
+      ]
+    ],
+    "Africa/Ndjamena": [
+      [
+        null,
+        null,
+        "Africa_Western"
+      ]
+    ],
+    "Africa/Niamey": [
+      [
+        null,
+        null,
+        "Africa_Western"
+      ]
+    ],
+    "Africa/Nouakchott": [
+      [
+        null,
+        null,
+        "GMT"
+      ]
+    ],
+    "Africa/Ouagadougou": [
+      [
+        null,
+        null,
+        "GMT"
+      ]
+    ],
+    "Africa/Porto-Novo": [
+      [
+        null,
+        null,
+        "Africa_Western"
+      ]
+    ],
+    "Africa/Sao_Tome": [
+      [
+        null,
+        1514768400000,
+        "GMT"
+      ],
+      [
+        1514768400000,
+        1546304400000,
+        "Africa_Western"
+      ],
+      [
+        1546304400000,
+        null,
+        "GMT"
+      ]
+    ],
+    "Africa/Tripoli": [
+      [
+        null,
+        378684000000,
+        "Europe_Eastern"
+      ],
+      [
+        378684000000,
+        641775600000,
+        "Europe_Central"
+      ],
+      [
+        641775600000,
+        844034400000,
+        "Europe_Eastern"
+      ],
+      [
+        844034400000,
+        875916000000,
+        "Europe_Central"
+      ],
+      [
+        875916000000,
+        1352505600000,
+        "Europe_Eastern"
+      ],
+      [
+        1352505600000,
+        1382659200000,
+        "Europe_Central"
+      ],
+      [
+        1382659200000,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Africa/Tunis": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Africa/Windhoek": [
+      [
+        null,
+        637970400000,
+        "Africa_Southern"
+      ],
+      [
+        637970400000,
+        764200800000,
+        "Africa_Central"
+      ],
+      [
+        764200800000,
+        1508796000000,
+        "Africa_Western"
+      ],
+      [
+        1508796000000,
+        null,
+        "Africa_Central"
+      ]
+    ],
+    "America/Adak": [
+      [
+        null,
+        436363200000,
+        "Bering"
+      ],
+      [
+        439034400000,
+        null,
+        "Hawaii_Aleutian"
+      ]
+    ],
+    "America/Anchorage": [
+      [
+        null,
+        436359600000,
+        "Alaska_Hawaii"
+      ],
+      [
+        439030800000,
+        null,
+        "Alaska"
+      ]
+    ],
+    "America/Anguilla": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Antigua": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Araguaina": [
+      [
+        null,
+        null,
+        "Brasilia"
+      ]
+    ],
+    "America/Argentina/La_Rioja": [
+      [
+        null,
+        667792800000,
+        "Argentina"
+      ],
+      [
+        667792800000,
+        673588800000,
+        "Argentina_Western"
+      ],
+      [
+        673588800000,
+        1086058800000,
+        "Argentina"
+      ],
+      [
+        1086058800000,
+        1087704000000,
+        "Argentina_Western"
+      ],
+      [
+        1087704000000,
+        null,
+        "Argentina"
+      ]
+    ],
+    "America/Argentina/Rio_Gallegos": [
+      [
+        null,
+        1086058800000,
+        "Argentina"
+      ],
+      [
+        1086058800000,
+        1087704000000,
+        "Argentina_Western"
+      ],
+      [
+        1087704000000,
+        null,
+        "Argentina"
+      ]
+    ],
+    "America/Argentina/Salta": [
+      [
+        null,
+        667965600000,
+        "Argentina"
+      ],
+      [
+        687931200000,
+        null,
+        "Argentina"
+      ]
+    ],
+    "America/Argentina/San_Juan": [
+      [
+        null,
+        667792800000,
+        "Argentina"
+      ],
+      [
+        667792800000,
+        673588800000,
+        "Argentina_Western"
+      ],
+      [
+        673588800000,
+        1085972400000,
+        "Argentina"
+      ],
+      [
+        1085972400000,
+        1090728000000,
+        "Argentina_Western"
+      ],
+      [
+        1090728000000,
+        null,
+        "Argentina"
+      ]
+    ],
+    "America/Argentina/San_Luis": [
+      [
+        null,
+        637380000000,
+        "Argentina"
+      ],
+      [
+        637380000000,
+        675748800000,
+        "Argentina_Western"
+      ],
+      [
+        675748800000,
+        938919600000,
+        "Argentina"
+      ],
+      [
+        938919600000,
+        952052400000,
+        "Argentina_Western"
+      ],
+      [
+        952052400000,
+        1085972400000,
+        "Argentina"
+      ],
+      [
+        1085972400000,
+        1090728000000,
+        "Argentina_Western"
+      ],
+      [
+        1090728000000,
+        1200880800000,
+        "Argentina"
+      ],
+      [
+        1200880800000,
+        1255233600000,
+        "Argentina_Western"
+      ],
+      [
+        1255233600000,
+        null,
+        "Argentina"
+      ]
+    ],
+    "America/Argentina/Tucuman": [
+      [
+        null,
+        667965600000,
+        "Argentina"
+      ],
+      [
+        687931200000,
+        1086058800000,
+        "Argentina"
+      ],
+      [
+        1086058800000,
+        1087099200000,
+        "Argentina_Western"
+      ],
+      [
+        1087099200000,
+        null,
+        "Argentina"
+      ]
+    ],
+    "America/Argentina/Ushuaia": [
+      [
+        null,
+        1085886000000,
+        "Argentina"
+      ],
+      [
+        1087704000000,
+        null,
+        "Argentina"
+      ]
+    ],
+    "America/Aruba": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Asuncion": [
+      [
+        null,
+        null,
+        "Paraguay"
+      ]
+    ],
+    "America/Bahia": [
+      [
+        null,
+        null,
+        "Brasilia"
+      ]
+    ],
+    "America/Bahia_Banderas": [
+      [
+        null,
+        1270371600000,
+        "America_Mountain"
+      ],
+      [
+        1270371600000,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Barbados": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Belem": [
+      [
+        null,
+        null,
+        "Brasilia"
+      ]
+    ],
+    "America/Belize": [
+      [
+        null,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Blanc-Sablon": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Boa_Vista": [
+      [
+        null,
+        null,
+        "Amazon"
+      ]
+    ],
+    "America/Bogota": [
+      [
+        null,
+        null,
+        "Colombia"
+      ]
+    ],
+    "America/Boise": [
+      [
+        null,
+        null,
+        "America_Mountain"
+      ]
+    ],
+    "America/Buenos_Aires": [
+      [
+        null,
+        null,
+        "Argentina"
+      ]
+    ],
+    "America/Cambridge_Bay": [
+      [
+        null,
+        941356800000,
+        "America_Mountain"
+      ],
+      [
+        941356800000,
+        972802800000,
+        "America_Central"
+      ],
+      [
+        972802800000,
+        973400400000,
+        "America_Eastern"
+      ],
+      [
+        973400400000,
+        986115600000,
+        "America_Central"
+      ],
+      [
+        986115600000,
+        null,
+        "America_Mountain"
+      ]
+    ],
+    "America/Campo_Grande": [
+      [
+        null,
+        null,
+        "Amazon"
+      ]
+    ],
+    "America/Cancun": [
+      [
+        null,
+        378201600000,
+        "America_Central"
+      ],
+      [
+        378201600000,
+        410504400000,
+        "America_Eastern"
+      ],
+      [
+        410504400000,
+        877849200000,
+        "America_Central"
+      ],
+      [
+        877849200000,
+        902037600000,
+        "America_Eastern"
+      ],
+      [
+        902037600000,
+        1422777600000,
+        "America_Central"
+      ],
+      [
+        1422777600000,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Caracas": [
+      [
+        null,
+        null,
+        "Venezuela"
+      ]
+    ],
+    "America/Catamarca": [
+      [
+        null,
+        667965600000,
+        "Argentina"
+      ],
+      [
+        687931200000,
+        1086058800000,
+        "Argentina"
+      ],
+      [
+        1086058800000,
+        1087704000000,
+        "Argentina_Western"
+      ],
+      [
+        1087704000000,
+        null,
+        "Argentina"
+      ]
+    ],
+    "America/Cayenne": [
+      [
+        null,
+        null,
+        "French_Guiana"
+      ]
+    ],
+    "America/Cayman": [
+      [
+        null,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Chicago": [
+      [
+        null,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Chihuahua": [
+      [
+        null,
+        891766800000,
+        "America_Central"
+      ],
+      [
+        891766800000,
+        1667116800000,
+        "Mexico_Pacific"
+      ],
+      [
+        1667116800000,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Ciudad_Juarez": [
+      [
+        null,
+        891766800000,
+        "America_Central"
+      ],
+      [
+        891766800000,
+        1667116800000,
+        "Mexico_Pacific"
+      ],
+      [
+        1667116800000,
+        1669788000000,
+        "America_Central"
+      ],
+      [
+        1669788000000,
+        null,
+        "America_Mountain"
+      ]
+    ],
+    "America/Coral_Harbour": [
+      [
+        null,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Cordoba": [
+      [
+        null,
+        667965600000,
+        "Argentina"
+      ],
+      [
+        687931200000,
+        null,
+        "Argentina"
+      ]
+    ],
+    "America/Costa_Rica": [
+      [
+        null,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Coyhaique": [
+      [
+        null,
+        1742439600000,
+        "Chile"
+      ]
+    ],
+    "America/Creston": [
+      [
+        null,
+        null,
+        "America_Mountain"
+      ]
+    ],
+    "America/Cuiaba": [
+      [
+        null,
+        null,
+        "Amazon"
+      ]
+    ],
+    "America/Curacao": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Danmarkshavn": [
+      [
+        null,
+        820465200000,
+        "Greenland_Western"
+      ],
+      [
+        820465200000,
+        null,
+        "GMT"
+      ]
+    ],
+    "America/Dawson": [
+      [
+        120646800000,
+        1604214000000,
+        "America_Pacific"
+      ],
+      [
+        1604214000000,
+        null,
+        "Yukon"
+      ]
+    ],
+    "America/Dawson_Creek": [
+      [
+        null,
+        84013200000,
+        "America_Pacific"
+      ],
+      [
+        84013200000,
+        null,
+        "America_Mountain"
+      ]
+    ],
+    "America/Denver": [
+      [
+        null,
+        null,
+        "America_Mountain"
+      ]
+    ],
+    "America/Detroit": [
+      [
+        null,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Dominica": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Edmonton": [
+      [
+        null,
+        null,
+        "America_Mountain"
+      ]
+    ],
+    "America/Eirunepe": [
+      [
+        null,
+        1214283600000,
+        "Acre"
+      ],
+      [
+        1214283600000,
+        1384056000000,
+        "Amazon"
+      ],
+      [
+        1384056000000,
+        null,
+        "Acre"
+      ]
+    ],
+    "America/El_Salvador": [
+      [
+        null,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Fort_Nelson": [
+      [
+        null,
+        1425808800000,
+        "America_Pacific"
+      ],
+      [
+        1425808800000,
+        null,
+        "America_Mountain"
+      ]
+    ],
+    "America/Fortaleza": [
+      [
+        null,
+        null,
+        "Brasilia"
+      ]
+    ],
+    "America/Glace_Bay": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Godthab": [
+      [
+        null,
+        1711414800000,
+        "Greenland_Western"
+      ],
+      [
+        1711414800000,
+        null,
+        "Greenland"
+      ]
+    ],
+    "America/Goose_Bay": [
+      [
+        null,
+        576043260000,
+        "Atlantic"
+      ],
+      [
+        576043260000,
+        594180060000,
+        "Goose_Bay"
+      ],
+      [
+        594180060000,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Grand_Turk": [
+      [
+        null,
+        1425798000000,
+        "America_Eastern"
+      ],
+      [
+        1425798000000,
+        1520751600000,
+        "Atlantic"
+      ],
+      [
+        1520751600000,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Grenada": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Guadeloupe": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Guatemala": [
+      [
+        null,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Guayaquil": [
+      [
+        null,
+        null,
+        "Ecuador"
+      ]
+    ],
+    "America/Guyana": [
+      [
+        null,
+        null,
+        "Guyana"
+      ]
+    ],
+    "America/Halifax": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Havana": [
+      [
+        null,
+        null,
+        "Cuba"
+      ]
+    ],
+    "America/Hermosillo": [
+      [
+        null,
+        null,
+        "Mexico_Pacific"
+      ]
+    ],
+    "America/Indiana/Knox": [
+      [
+        null,
+        688546800000,
+        "America_Central"
+      ],
+      [
+        688546800000,
+        1143961200000,
+        "America_Eastern"
+      ],
+      [
+        1143961200000,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Indiana/Marengo": [
+      [
+        null,
+        126687600000,
+        "America_Eastern"
+      ],
+      [
+        126687600000,
+        152089200000,
+        "America_Central"
+      ],
+      [
+        152089200000,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Indiana/Petersburg": [
+      [
+        null,
+        247042800000,
+        "America_Central"
+      ],
+      [
+        247042800000,
+        1143961200000,
+        "America_Eastern"
+      ],
+      [
+        1143961200000,
+        1194159600000,
+        "America_Central"
+      ],
+      [
+        1194159600000,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Indiana/Tell_City": [
+      [
+        null,
+        1143961200000,
+        "America_Eastern"
+      ],
+      [
+        1143961200000,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Indiana/Vevay": [
+      [
+        null,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Indiana/Vincennes": [
+      [
+        null,
+        1143961200000,
+        "America_Eastern"
+      ],
+      [
+        1143961200000,
+        1194159600000,
+        "America_Central"
+      ],
+      [
+        1194159600000,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Indiana/Winamac": [
+      [
+        null,
+        1143961200000,
+        "America_Eastern"
+      ],
+      [
+        1143961200000,
+        1173600000000,
+        "America_Central"
+      ],
+      [
+        1173600000000,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Indianapolis": [
+      [
+        null,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Inuvik": [
+      [
+        null,
+        294228000000,
+        "America_Pacific"
+      ],
+      [
+        294228000000,
+        null,
+        "America_Mountain"
+      ]
+    ],
+    "America/Iqaluit": [
+      [
+        null,
+        941349600000,
+        "America_Eastern"
+      ],
+      [
+        941349600000,
+        972802800000,
+        "America_Central"
+      ],
+      [
+        972802800000,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Jamaica": [
+      [
+        null,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Jujuy": [
+      [
+        null,
+        636516000000,
+        "Argentina"
+      ],
+      [
+        686721600000,
+        null,
+        "Argentina"
+      ]
+    ],
+    "America/Juneau": [
+      [
+        null,
+        325677600000,
+        "America_Pacific"
+      ],
+      [
+        341402400000,
+        436352400000,
+        "America_Pacific"
+      ],
+      [
+        439030800000,
+        null,
+        "Alaska"
+      ]
+    ],
+    "America/Kentucky/Monticello": [
+      [
+        null,
+        972802800000,
+        "America_Central"
+      ],
+      [
+        972802800000,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Kralendijk": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/La_Paz": [
+      [
+        null,
+        null,
+        "Bolivia"
+      ]
+    ],
+    "America/Lima": [
+      [
+        null,
+        null,
+        "Peru"
+      ]
+    ],
+    "America/Los_Angeles": [
+      [
+        null,
+        null,
+        "America_Pacific"
+      ]
+    ],
+    "America/Louisville": [
+      [
+        null,
+        126687600000,
+        "America_Eastern"
+      ],
+      [
+        126687600000,
+        152089200000,
+        "America_Central"
+      ],
+      [
+        152089200000,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Lower_Princes": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Maceio": [
+      [
+        null,
+        null,
+        "Brasilia"
+      ]
+    ],
+    "America/Managua": [
+      [
+        null,
+        105084000000,
+        "America_Central"
+      ],
+      [
+        105084000000,
+        161758800000,
+        "America_Eastern"
+      ],
+      [
+        161758800000,
+        694260000000,
+        "America_Central"
+      ],
+      [
+        694260000000,
+        717310800000,
+        "America_Eastern"
+      ],
+      [
+        717310800000,
+        725868000000,
+        "America_Central"
+      ],
+      [
+        725868000000,
+        852094800000,
+        "America_Eastern"
+      ],
+      [
+        852094800000,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Manaus": [
+      [
+        null,
+        null,
+        "Amazon"
+      ]
+    ],
+    "America/Marigot": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Martinique": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Matamoros": [
+      [
+        null,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Mazatlan": [
+      [
+        null,
+        null,
+        "Mexico_Pacific"
+      ]
+    ],
+    "America/Mendoza": [
+      [
+        null,
+        636516000000,
+        "Argentina"
+      ],
+      [
+        719380800000,
+        1085281200000,
+        "Argentina"
+      ],
+      [
+        1096171200000,
+        null,
+        "Argentina"
+      ]
+    ],
+    "America/Menominee": [
+      [
+        null,
+        104914800000,
+        "America_Eastern"
+      ],
+      [
+        104914800000,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Merida": [
+      [
+        null,
+        378201600000,
+        "America_Central"
+      ],
+      [
+        378201600000,
+        405068400000,
+        "America_Eastern"
+      ],
+      [
+        405068400000,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Metlakatla": [
+      [
+        null,
+        1446372000000,
+        "America_Pacific"
+      ],
+      [
+        1446372000000,
+        1541325600000,
+        "Alaska"
+      ],
+      [
+        1541325600000,
+        1547978400000,
+        "America_Pacific"
+      ],
+      [
+        1547978400000,
+        null,
+        "Alaska"
+      ]
+    ],
+    "America/Mexico_City": [
+      [
+        null,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Miquelon": [
+      [
+        null,
+        326001600000,
+        "Atlantic"
+      ],
+      [
+        326001600000,
+        null,
+        "Pierre_Miquelon"
+      ]
+    ],
+    "America/Moncton": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Monterrey": [
+      [
+        null,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Montevideo": [
+      [
+        null,
+        null,
+        "Uruguay"
+      ]
+    ],
+    "America/Montserrat": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Nassau": [
+      [
+        null,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/New_York": [
+      [
+        null,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Nome": [
+      [
+        null,
+        436363200000,
+        "Bering"
+      ],
+      [
+        439030800000,
+        null,
+        "Alaska"
+      ]
+    ],
+    "America/Noronha": [
+      [
+        null,
+        null,
+        "Noronha"
+      ]
+    ],
+    "America/North_Dakota/Beulah": [
+      [
+        null,
+        1289116800000,
+        "America_Mountain"
+      ],
+      [
+        1289116800000,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/North_Dakota/Center": [
+      [
+        null,
+        720000000000,
+        "America_Mountain"
+      ],
+      [
+        720000000000,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/North_Dakota/New_Salem": [
+      [
+        null,
+        1067155200000,
+        "America_Mountain"
+      ],
+      [
+        1067155200000,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Ojinaga": [
+      [
+        null,
+        891766800000,
+        "America_Central"
+      ],
+      [
+        891766800000,
+        1667116800000,
+        "America_Mountain"
+      ],
+      [
+        1667116800000,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Panama": [
+      [
+        null,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Paramaribo": [
+      [
+        null,
+        185686200000,
+        "Dutch_Guiana"
+      ],
+      [
+        185686200000,
+        null,
+        "Suriname"
+      ]
+    ],
+    "America/Phoenix": [
+      [
+        null,
+        null,
+        "America_Mountain"
+      ]
+    ],
+    "America/Port-au-Prince": [
+      [
+        null,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Port_of_Spain": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Porto_Velho": [
+      [
+        null,
+        null,
+        "Amazon"
+      ]
+    ],
+    "America/Puerto_Rico": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Punta_Arenas": [
+      [
+        null,
+        1480806000000,
+        "Chile"
+      ]
+    ],
+    "America/Rankin_Inlet": [
+      [
+        null,
+        972802800000,
+        "America_Central"
+      ],
+      [
+        972802800000,
+        986112000000,
+        "America_Eastern"
+      ],
+      [
+        986112000000,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Recife": [
+      [
+        null,
+        null,
+        "Brasilia"
+      ]
+    ],
+    "America/Regina": [
+      [
+        null,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Resolute": [
+      [
+        null,
+        972802800000,
+        "America_Central"
+      ],
+      [
+        972802800000,
+        986112000000,
+        "America_Eastern"
+      ],
+      [
+        986112000000,
+        1162105200000,
+        "America_Central"
+      ],
+      [
+        1162105200000,
+        1173600000000,
+        "America_Eastern"
+      ],
+      [
+        1173600000000,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Rio_Branco": [
+      [
+        null,
+        1214283600000,
+        "Acre"
+      ],
+      [
+        1214283600000,
+        1384056000000,
+        "Amazon"
+      ],
+      [
+        1384056000000,
+        null,
+        "Acre"
+      ]
+    ],
+    "America/Santarem": [
+      [
+        null,
+        1214280000000,
+        "Amazon"
+      ],
+      [
+        1214280000000,
+        null,
+        "Brasilia"
+      ]
+    ],
+    "America/Santiago": [
+      [
+        null,
+        null,
+        "Chile"
+      ]
+    ],
+    "America/Santo_Domingo": [
+      [
+        null,
+        152082000000,
+        "Dominican"
+      ],
+      [
+        152082000000,
+        972799200000,
+        "Atlantic"
+      ],
+      [
+        972799200000,
+        975823200000,
+        "America_Eastern"
+      ],
+      [
+        975823200000,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Sao_Paulo": [
+      [
+        null,
+        null,
+        "Brasilia"
+      ]
+    ],
+    "America/Scoresbysund": [
+      [
+        null,
+        354679200000,
+        "Greenland_Central"
+      ],
+      [
+        354679200000,
+        1711846800000,
+        "Greenland_Eastern"
+      ],
+      [
+        1711846800000,
+        null,
+        "Greenland"
+      ]
+    ],
+    "America/Sitka": [
+      [
+        null,
+        436352400000,
+        "America_Pacific"
+      ],
+      [
+        439030800000,
+        null,
+        "Alaska"
+      ]
+    ],
+    "America/St_Barthelemy": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/St_Johns": [
+      [
+        null,
+        null,
+        "Newfoundland"
+      ]
+    ],
+    "America/St_Kitts": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/St_Lucia": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/St_Thomas": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/St_Vincent": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Swift_Current": [
+      [
+        null,
+        73472400000,
+        "America_Mountain"
+      ],
+      [
+        73472400000,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Tegucigalpa": [
+      [
+        null,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Thule": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Tijuana": [
+      [
+        null,
+        null,
+        "America_Pacific"
+      ]
+    ],
+    "America/Toronto": [
+      [
+        null,
+        null,
+        "America_Eastern"
+      ]
+    ],
+    "America/Tortola": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "America/Vancouver": [
+      [
+        null,
+        null,
+        "America_Pacific"
+      ]
+    ],
+    "America/Whitehorse": [
+      [
+        null,
+        1604214000000,
+        "America_Pacific"
+      ],
+      [
+        1604214000000,
+        null,
+        "Yukon"
+      ]
+    ],
+    "America/Winnipeg": [
+      [
+        null,
+        null,
+        "America_Central"
+      ]
+    ],
+    "America/Yakutat": [
+      [
+        439030800000,
+        null,
+        "Alaska"
+      ]
+    ],
+    "Antarctica/Casey": [
+      [
+        null,
+        1255802400000,
+        "Australia_Western"
+      ],
+      [
+        1255802400000,
+        1267714800000,
+        "Casey"
+      ],
+      [
+        1267714800000,
+        1319738400000,
+        "Australia_Western"
+      ],
+      [
+        1319738400000,
+        1329843600000,
+        "Casey"
+      ],
+      [
+        1329843600000,
+        1477065600000,
+        "Australia_Western"
+      ],
+      [
+        1477065600000,
+        1520701200000,
+        "Casey"
+      ],
+      [
+        1520701200000,
+        1538856000000,
+        "Australia_Western"
+      ],
+      [
+        1538856000000,
+        1552752000000,
+        "Casey"
+      ],
+      [
+        1552752000000,
+        1570129200000,
+        "Australia_Western"
+      ],
+      [
+        1570129200000,
+        1583596800000,
+        "Casey"
+      ],
+      [
+        1583596800000,
+        1601740860000,
+        "Australia_Western"
+      ],
+      [
+        1601740860000,
+        1615640400000,
+        "Casey"
+      ],
+      [
+        1615640400000,
+        1633190460000,
+        "Australia_Western"
+      ],
+      [
+        1633190460000,
+        1647090000000,
+        "Casey"
+      ],
+      [
+        1647090000000,
+        1664640060000,
+        "Australia_Western"
+      ],
+      [
+        1664640060000,
+        1678291200000,
+        "Casey"
+      ],
+      [
+        1678291200000,
+        null,
+        "Australia_Western"
+      ]
+    ],
+    "Antarctica/Davis": [
+      [
+        null,
+        null,
+        "Davis"
+      ]
+    ],
+    "Antarctica/DumontDUrville": [
+      [
+        null,
+        null,
+        "DumontDUrville"
+      ]
+    ],
+    "Antarctica/Macquarie": [
+      [
+        null,
+        null,
+        "Australia_Eastern"
+      ]
+    ],
+    "Antarctica/Mawson": [
+      [
+        null,
+        null,
+        "Mawson"
+      ]
+    ],
+    "Antarctica/McMurdo": [
+      [
+        null,
+        null,
+        "New_Zealand"
+      ]
+    ],
+    "Antarctica/Palmer": [
+      [
+        null,
+        389070000000,
+        "Argentina"
+      ],
+      [
+        389070000000,
+        1480820400000,
+        "Chile"
+      ]
+    ],
+    "Antarctica/Rothera": [
+      [
+        null,
+        null,
+        "Rothera"
+      ]
+    ],
+    "Antarctica/Syowa": [
+      [
+        null,
+        null,
+        "Syowa"
+      ]
+    ],
+    "Antarctica/Troll": [
+      [
+        null,
+        null,
+        "GMT"
+      ]
+    ],
+    "Antarctica/Vostok": [
+      [
+        null,
+        null,
+        "Vostok"
+      ]
+    ],
+    "Arctic/Longyearbyen": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Asia/Aden": [
+      [
+        null,
+        null,
+        "Arabian"
+      ]
+    ],
+    "Asia/Almaty": [
+      [
+        null,
+        1099166400000,
+        "Almaty"
+      ],
+      [
+        1099166400000,
+        1709229600000,
+        "Kazakhstan_Eastern"
+      ],
+      [
+        1709229600000,
+        null,
+        "Kazakhstan"
+      ]
+    ],
+    "Asia/Amman": [
+      [
+        null,
+        1666908000000,
+        "Europe_Eastern"
+      ]
+    ],
+    "Asia/Anadyr": [
+      [
+        null,
+        1269698400000,
+        "Anadyr"
+      ],
+      [
+        1269698400000,
+        1301151600000,
+        "Magadan"
+      ],
+      [
+        1301151600000,
+        null,
+        "Kamchatka"
+      ]
+    ],
+    "Asia/Aqtau": [
+      [
+        null,
+        692823600000,
+        "Shevchenko"
+      ],
+      [
+        692823600000,
+        1099173600000,
+        "Aqtau"
+      ],
+      [
+        1099173600000,
+        1709229600000,
+        "Kazakhstan_Western"
+      ],
+      [
+        1709229600000,
+        null,
+        "Kazakhstan"
+      ]
+    ],
+    "Asia/Aqtobe": [
+      [
+        null,
+        692823600000,
+        "Aktyubinsk"
+      ],
+      [
+        692823600000,
+        1099170000000,
+        "Aqtobe"
+      ],
+      [
+        1099170000000,
+        1709229600000,
+        "Kazakhstan_Western"
+      ],
+      [
+        1709229600000,
+        null,
+        "Kazakhstan"
+      ]
+    ],
+    "Asia/Ashgabat": [
+      [
+        null,
+        695772000000,
+        "Ashkhabad"
+      ],
+      [
+        695772000000,
+        null,
+        "Turkmenistan"
+      ]
+    ],
+    "Asia/Atyrau": [
+      [
+        1099173600000,
+        1709229600000,
+        "Kazakhstan_Western"
+      ],
+      [
+        1709229600000,
+        null,
+        "Kazakhstan"
+      ]
+    ],
+    "Asia/Baghdad": [
+      [
+        null,
+        null,
+        "Arabian"
+      ]
+    ],
+    "Asia/Bahrain": [
+      [
+        null,
+        76190400000,
+        "Gulf"
+      ],
+      [
+        76190400000,
+        null,
+        "Arabian"
+      ]
+    ],
+    "Asia/Baku": [
+      [
+        null,
+        670370400000,
+        "Baku"
+      ],
+      [
+        670370400000,
+        null,
+        "Azerbaijan"
+      ]
+    ],
+    "Asia/Bangkok": [
+      [
+        null,
+        null,
+        "Indochina"
+      ]
+    ],
+    "Asia/Barnaul": [
+      [
+        1459022400000,
+        null,
+        "Krasnoyarsk"
+      ]
+    ],
+    "Asia/Beirut": [
+      [
+        null,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Asia/Bishkek": [
+      [
+        null,
+        670363200000,
+        "Frunze"
+      ],
+      [
+        670363200000,
+        null,
+        "Kyrgystan"
+      ]
+    ],
+    "Asia/Brunei": [
+      [
+        null,
+        null,
+        "Brunei"
+      ]
+    ],
+    "Asia/Calcutta": [
+      [
+        null,
+        null,
+        "India"
+      ]
+    ],
+    "Asia/Chita": [
+      [
+        null,
+        1414252800000,
+        "Yakutsk"
+      ],
+      [
+        1414256400000,
+        1459015200000,
+        "Irkutsk"
+      ],
+      [
+        1459015200000,
+        null,
+        "Yakutsk"
+      ]
+    ],
+    "Asia/Colombo": [
+      [
+        null,
+        832962600000,
+        "India"
+      ],
+      [
+        832962600000,
+        1145039400000,
+        "Lanka"
+      ],
+      [
+        1145039400000,
+        null,
+        "India"
+      ]
+    ],
+    "Asia/Damascus": [
+      [
+        null,
+        1666904400000,
+        "Europe_Eastern"
+      ]
+    ],
+    "Asia/Dhaka": [
+      [
+        null,
+        38772000000,
+        "Dacca"
+      ],
+      [
+        38772000000,
+        null,
+        "Bangladesh"
+      ]
+    ],
+    "Asia/Dili": [
+      [
+        null,
+        199897200000,
+        "East_Timor"
+      ],
+      [
+        199897200000,
+        969120000000,
+        "Indonesia_Central"
+      ],
+      [
+        969120000000,
+        null,
+        "East_Timor"
+      ]
+    ],
+    "Asia/Dubai": [
+      [
+        null,
+        null,
+        "Gulf"
+      ]
+    ],
+    "Asia/Dushanbe": [
+      [
+        null,
+        684363600000,
+        "Dushanbe"
+      ],
+      [
+        684363600000,
+        null,
+        "Tajikistan"
+      ]
+    ],
+    "Asia/Famagusta": [
+      [
+        null,
+        1473282000000,
+        "Europe_Eastern"
+      ],
+      [
+        1509238800000,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Asia/Gaza": [
+      [
+        null,
+        820447200000,
+        "Israel"
+      ],
+      [
+        820447200000,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Asia/Hebron": [
+      [
+        null,
+        820447200000,
+        "Israel"
+      ],
+      [
+        820447200000,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Asia/Hong_Kong": [
+      [
+        null,
+        null,
+        "Hong_Kong"
+      ]
+    ],
+    "Asia/Hovd": [
+      [
+        null,
+        null,
+        "Hovd"
+      ]
+    ],
+    "Asia/Irkutsk": [
+      [
+        null,
+        null,
+        "Irkutsk"
+      ]
+    ],
+    "Asia/Jakarta": [
+      [
+        null,
+        null,
+        "Indonesia_Western"
+      ]
+    ],
+    "Asia/Jayapura": [
+      [
+        null,
+        null,
+        "Indonesia_Eastern"
+      ]
+    ],
+    "Asia/Jerusalem": [
+      [
+        null,
+        null,
+        "Israel"
+      ]
+    ],
+    "Asia/Kabul": [
+      [
+        null,
+        null,
+        "Afghanistan"
+      ]
+    ],
+    "Asia/Kamchatka": [
+      [
+        null,
+        null,
+        "Kamchatka"
+      ]
+    ],
+    "Asia/Karachi": [
+      [
+        null,
+        38775600000,
+        "Karachi"
+      ],
+      [
+        38775600000,
+        null,
+        "Pakistan"
+      ]
+    ],
+    "Asia/Katmandu": [
+      [
+        null,
+        null,
+        "Nepal"
+      ]
+    ],
+    "Asia/Khandyga": [
+      [
+        null,
+        1072882800000,
+        "Yakutsk"
+      ],
+      [
+        1072882800000,
+        1315832400000,
+        "Vladivostok"
+      ],
+      [
+        1315832400000,
+        null,
+        "Yakutsk"
+      ]
+    ],
+    "Asia/Krasnoyarsk": [
+      [
+        null,
+        null,
+        "Krasnoyarsk"
+      ]
+    ],
+    "Asia/Kuala_Lumpur": [
+      [
+        null,
+        378662400000,
+        "Malaya"
+      ],
+      [
+        378662400000,
+        null,
+        "Malaysia"
+      ]
+    ],
+    "Asia/Kuching": [
+      [
+        null,
+        378662400000,
+        "Borneo"
+      ],
+      [
+        378662400000,
+        null,
+        "Malaysia"
+      ]
+    ],
+    "Asia/Kuwait": [
+      [
+        null,
+        null,
+        "Arabian"
+      ]
+    ],
+    "Asia/Macau": [
+      [
+        null,
+        945619200000,
+        "Macau"
+      ],
+      [
+        945619200000,
+        null,
+        "China"
+      ]
+    ],
+    "Asia/Magadan": [
+      [
+        null,
+        null,
+        "Magadan"
+      ]
+    ],
+    "Asia/Makassar": [
+      [
+        null,
+        null,
+        "Indonesia_Central"
+      ]
+    ],
+    "Asia/Manila": [
+      [
+        null,
+        null,
+        "Philippines"
+      ]
+    ],
+    "Asia/Muscat": [
+      [
+        null,
+        null,
+        "Gulf"
+      ]
+    ],
+    "Asia/Nicosia": [
+      [
+        null,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Asia/Novokuznetsk": [
+      [
+        null,
+        1269716400000,
+        "Krasnoyarsk"
+      ],
+      [
+        1269716400000,
+        1414263600000,
+        "Novosibirsk"
+      ],
+      [
+        1414263600000,
+        null,
+        "Krasnoyarsk"
+      ]
+    ],
+    "Asia/Novosibirsk": [
+      [
+        null,
+        1469304000000,
+        "Novosibirsk"
+      ],
+      [
+        1469304000000,
+        null,
+        "Krasnoyarsk"
+      ]
+    ],
+    "Asia/Omsk": [
+      [
+        null,
+        null,
+        "Omsk"
+      ]
+    ],
+    "Asia/Oral": [
+      [
+        null,
+        692827200000,
+        "Uralsk"
+      ],
+      [
+        692827200000,
+        1099173600000,
+        "Oral"
+      ],
+      [
+        1099173600000,
+        1709229600000,
+        "Kazakhstan_Western"
+      ],
+      [
+        1709229600000,
+        null,
+        "Kazakhstan"
+      ]
+    ],
+    "Asia/Phnom_Penh": [
+      [
+        null,
+        null,
+        "Indochina"
+      ]
+    ],
+    "Asia/Pontianak": [
+      [
+        null,
+        567964800000,
+        "Indonesia_Central"
+      ],
+      [
+        567964800000,
+        null,
+        "Indonesia_Western"
+      ]
+    ],
+    "Asia/Pyongyang": [
+      [
+        null,
+        1439564400000,
+        "Korea"
+      ],
+      [
+        1439564400000,
+        1525446000000,
+        "Pyongyang"
+      ],
+      [
+        1525446000000,
+        null,
+        "Korea"
+      ]
+    ],
+    "Asia/Qatar": [
+      [
+        null,
+        76190400000,
+        "Gulf"
+      ],
+      [
+        76190400000,
+        null,
+        "Arabian"
+      ]
+    ],
+    "Asia/Qostanay": [
+      [
+        1099170000000,
+        1709229600000,
+        "Kazakhstan_Eastern"
+      ],
+      [
+        1709229600000,
+        null,
+        "Kazakhstan"
+      ]
+    ],
+    "Asia/Qyzylorda": [
+      [
+        null,
+        692823600000,
+        "Kizilorda"
+      ],
+      [
+        692823600000,
+        1099170000000,
+        "Qyzylorda"
+      ],
+      [
+        1099170000000,
+        1545328800000,
+        "Kazakhstan_Eastern"
+      ],
+      [
+        1545328800000,
+        1709229600000,
+        "Kazakhstan_Western"
+      ],
+      [
+        1709229600000,
+        null,
+        "Kazakhstan"
+      ]
+    ],
+    "Asia/Rangoon": [
+      [
+        null,
+        null,
+        "Myanmar"
+      ]
+    ],
+    "Asia/Riyadh": [
+      [
+        null,
+        null,
+        "Arabian"
+      ]
+    ],
+    "Asia/Saigon": [
+      [
+        171820800000,
+        null,
+        "Indochina"
+      ]
+    ],
+    "Asia/Sakhalin": [
+      [
+        null,
+        1414249200000,
+        "Sakhalin"
+      ],
+      [
+        1414249200000,
+        1459008000000,
+        "Magadan"
+      ],
+      [
+        1461686400000,
+        null,
+        "Magadan"
+      ]
+    ],
+    "Asia/Samarkand": [
+      [
+        null,
+        370720800000,
+        "Samarkand"
+      ],
+      [
+        370720800000,
+        386445600000,
+        "Tashkent"
+      ],
+      [
+        386445600000,
+        683661600000,
+        "Samarkand"
+      ],
+      [
+        683661600000,
+        null,
+        "Uzbekistan"
+      ]
+    ],
+    "Asia/Seoul": [
+      [
+        null,
+        null,
+        "Korea"
+      ]
+    ],
+    "Asia/Shanghai": [
+      [
+        null,
+        null,
+        "China"
+      ]
+    ],
+    "Asia/Singapore": [
+      [
+        null,
+        null,
+        "Singapore"
+      ]
+    ],
+    "Asia/Srednekolymsk": [
+      [
+        null,
+        1414245600000,
+        "Magadan"
+      ],
+      [
+        1461427200000,
+        null,
+        "Magadan"
+      ]
+    ],
+    "Asia/Taipei": [
+      [
+        null,
+        null,
+        "Taipei"
+      ]
+    ],
+    "Asia/Tashkent": [
+      [
+        null,
+        670363200000,
+        "Tashkent"
+      ],
+      [
+        670363200000,
+        null,
+        "Uzbekistan"
+      ]
+    ],
+    "Asia/Tbilisi": [
+      [
+        null,
+        670370400000,
+        "Tbilisi"
+      ],
+      [
+        670370400000,
+        null,
+        "Georgia"
+      ]
+    ],
+    "Asia/Tehran": [
+      [
+        null,
+        null,
+        "Iran"
+      ]
+    ],
+    "Asia/Thimphu": [
+      [
+        null,
+        560025000000,
+        "India"
+      ],
+      [
+        560025000000,
+        null,
+        "Bhutan"
+      ]
+    ],
+    "Asia/Tokyo": [
+      [
+        null,
+        null,
+        "Japan"
+      ]
+    ],
+    "Asia/Tomsk": [
+      [
+        1464465600000,
+        null,
+        "Krasnoyarsk"
+      ]
+    ],
+    "Asia/Ulaanbaatar": [
+      [
+        null,
+        null,
+        "Mongolia"
+      ]
+    ],
+    "Asia/Urumqi": [
+      [
+        null,
+        null,
+        "Urumqi"
+      ]
+    ],
+    "Asia/Ust-Nera": [
+      [
+        null,
+        354898800000,
+        "Yakutsk"
+      ],
+      [
+        354898800000,
+        1315828800000,
+        "Magadan"
+      ],
+      [
+        1315828800000,
+        null,
+        "Vladivostok"
+      ]
+    ],
+    "Asia/Vientiane": [
+      [
+        null,
+        null,
+        "Indochina"
+      ]
+    ],
+    "Asia/Vladivostok": [
+      [
+        null,
+        null,
+        "Vladivostok"
+      ]
+    ],
+    "Asia/Yakutsk": [
+      [
+        null,
+        null,
+        "Yakutsk"
+      ]
+    ],
+    "Asia/Yekaterinburg": [
+      [
+        null,
+        695772000000,
+        "Sverdlovsk"
+      ],
+      [
+        695772000000,
+        null,
+        "Yekaterinburg"
+      ]
+    ],
+    "Asia/Yerevan": [
+      [
+        null,
+        670370400000,
+        "Yerevan"
+      ],
+      [
+        670370400000,
+        null,
+        "Armenia"
+      ]
+    ],
+    "Atlantic/Azores": [
+      [
+        null,
+        725421600000,
+        "Azores"
+      ],
+      [
+        725421600000,
+        740278800000,
+        "Europe_Western"
+      ],
+      [
+        740278800000,
+        null,
+        "Azores"
+      ]
+    ],
+    "Atlantic/Bermuda": [
+      [
+        null,
+        null,
+        "Atlantic"
+      ]
+    ],
+    "Atlantic/Canary": [
+      [
+        null,
+        null,
+        "Europe_Western"
+      ]
+    ],
+    "Atlantic/Cape_Verde": [
+      [
+        null,
+        null,
+        "Cape_Verde"
+      ]
+    ],
+    "Atlantic/Faeroe": [
+      [
+        null,
+        null,
+        "Europe_Western"
+      ]
+    ],
+    "Atlantic/Madeira": [
+      [
+        null,
+        null,
+        "Europe_Western"
+      ]
+    ],
+    "Atlantic/Reykjavik": [
+      [
+        null,
+        null,
+        "GMT"
+      ]
+    ],
+    "Atlantic/South_Georgia": [
+      [
+        null,
+        null,
+        "South_Georgia"
+      ]
+    ],
+    "Atlantic/St_Helena": [
+      [
+        null,
+        null,
+        "GMT"
+      ]
+    ],
+    "Atlantic/Stanley": [
+      [
+        null,
+        null,
+        "Falkland"
+      ]
+    ],
+    "Australia/Adelaide": [
+      [
+        null,
+        null,
+        "Australia_Central"
+      ]
+    ],
+    "Australia/Brisbane": [
+      [
+        null,
+        null,
+        "Australia_Eastern"
+      ]
+    ],
+    "Australia/Broken_Hill": [
+      [
+        null,
+        null,
+        "Australia_Central"
+      ]
+    ],
+    "Australia/Darwin": [
+      [
+        null,
+        null,
+        "Australia_Central"
+      ]
+    ],
+    "Australia/Eucla": [
+      [
+        null,
+        null,
+        "Australia_CentralWestern"
+      ]
+    ],
+    "Australia/Hobart": [
+      [
+        null,
+        null,
+        "Australia_Eastern"
+      ]
+    ],
+    "Australia/Lindeman": [
+      [
+        null,
+        null,
+        "Australia_Eastern"
+      ]
+    ],
+    "Australia/Lord_Howe": [
+      [
+        null,
+        352216800000,
+        "Australia_Eastern"
+      ],
+      [
+        352216800000,
+        null,
+        "Lord_Howe"
+      ]
+    ],
+    "Australia/Melbourne": [
+      [
+        null,
+        null,
+        "Australia_Eastern"
+      ]
+    ],
+    "Australia/Perth": [
+      [
+        null,
+        null,
+        "Australia_Western"
+      ]
+    ],
+    "Australia/Sydney": [
+      [
+        null,
+        null,
+        "Australia_Eastern"
+      ]
+    ],
+    "Etc/GMT": [
+      [
+        null,
+        null,
+        "GMT"
+      ]
+    ],
+    "Europe/Amsterdam": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Andorra": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Astrakhan": [
+      [
+        701820000000,
+        1459033200000,
+        "Moscow"
+      ],
+      [
+        1459033200000,
+        null,
+        "Samara"
+      ]
+    ],
+    "Europe/Athens": [
+      [
+        null,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Europe/Belgrade": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Berlin": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Bratislava": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Brussels": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Bucharest": [
+      [
+        null,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Europe/Budapest": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Busingen": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Chisinau": [
+      [
+        null,
+        641944800000,
+        "Moscow"
+      ],
+      [
+        641944800000,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Europe/Copenhagen": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Dublin": [
+      [
+        null,
+        57722400000,
+        "Irish"
+      ],
+      [
+        57722400000,
+        null,
+        "GMT"
+      ]
+    ],
+    "Europe/Gibraltar": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Guernsey": [
+      [
+        null,
+        57722400000,
+        "British"
+      ],
+      [
+        57722400000,
+        null,
+        "GMT"
+      ]
+    ],
+    "Europe/Helsinki": [
+      [
+        null,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Europe/Isle_of_Man": [
+      [
+        null,
+        57722400000,
+        "British"
+      ],
+      [
+        57722400000,
+        null,
+        "GMT"
+      ]
+    ],
+    "Europe/Istanbul": [
+      [
+        null,
+        267915600000,
+        "Europe_Eastern"
+      ],
+      [
+        267915600000,
+        468111600000,
+        "Turkey"
+      ],
+      [
+        468111600000,
+        1473195600000,
+        "Europe_Eastern"
+      ],
+      [
+        1473195600000,
+        null,
+        "Turkey"
+      ]
+    ],
+    "Europe/Jersey": [
+      [
+        null,
+        57722400000,
+        "British"
+      ],
+      [
+        57722400000,
+        null,
+        "GMT"
+      ]
+    ],
+    "Europe/Kaliningrad": [
+      [
+        null,
+        606870000000,
+        "Moscow"
+      ],
+      [
+        606870000000,
+        1301184000000,
+        "Europe_Eastern"
+      ],
+      [
+        1301184000000,
+        1414278000000,
+        "Europe_Further_Eastern"
+      ],
+      [
+        1414278000000,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Europe/Kiev": [
+      [
+        null,
+        646783200000,
+        "Moscow"
+      ],
+      [
+        646783200000,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Europe/Kirov": [
+      [
+        1414274400000,
+        null,
+        "Moscow"
+      ]
+    ],
+    "Europe/Lisbon": [
+      [
+        null,
+        212544000000,
+        "Europe_Central"
+      ],
+      [
+        212544000000,
+        717555600000,
+        "Europe_Western"
+      ],
+      [
+        717555600000,
+        828234000000,
+        "Europe_Central"
+      ],
+      [
+        828234000000,
+        null,
+        "Europe_Western"
+      ]
+    ],
+    "Europe/Ljubljana": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/London": [
+      [
+        null,
+        57722400000,
+        "British"
+      ],
+      [
+        57722400000,
+        null,
+        "GMT"
+      ]
+    ],
+    "Europe/Luxembourg": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Madrid": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Malta": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Mariehamn": [
+      [
+        null,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Europe/Minsk": [
+      [
+        null,
+        670374000000,
+        "Moscow"
+      ],
+      [
+        670374000000,
+        1301184000000,
+        "Europe_Eastern"
+      ],
+      [
+        1301184000000,
+        1414360800000,
+        "Europe_Further_Eastern"
+      ],
+      [
+        1414360800000,
+        null,
+        "Moscow"
+      ]
+    ],
+    "Europe/Monaco": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Moscow": [
+      [
+        null,
+        670374000000,
+        "Moscow"
+      ],
+      [
+        670374000000,
+        695779200000,
+        "Europe_Eastern"
+      ],
+      [
+        695779200000,
+        null,
+        "Moscow"
+      ]
+    ],
+    "Europe/Oslo": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Paris": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Podgorica": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Prague": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Riga": [
+      [
+        null,
+        606870000000,
+        "Moscow"
+      ],
+      [
+        606870000000,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Europe/Rome": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Samara": [
+      [
+        null,
+        606866400000,
+        "Kuybyshev"
+      ],
+      [
+        606866400000,
+        670374000000,
+        "Moscow"
+      ],
+      [
+        670374000000,
+        686102400000,
+        "Europe_Eastern"
+      ],
+      [
+        686102400000,
+        null,
+        "Samara"
+      ]
+    ],
+    "Europe/San_Marino": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Sarajevo": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Saratov": [
+      [
+        701820000000,
+        1480806000000,
+        "Moscow"
+      ],
+      [
+        1480806000000,
+        null,
+        "Samara"
+      ]
+    ],
+    "Europe/Simferopol": [
+      [
+        null,
+        646786800000,
+        "Moscow"
+      ],
+      [
+        646786800000,
+        767739600000,
+        "Europe_Eastern"
+      ],
+      [
+        767739600000,
+        859683600000,
+        "Moscow"
+      ],
+      [
+        859683600000,
+        1396137600000,
+        "Europe_Eastern"
+      ],
+      [
+        1396137600000,
+        null,
+        "Moscow"
+      ]
+    ],
+    "Europe/Skopje": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Sofia": [
+      [
+        null,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Europe/Stockholm": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Tallinn": [
+      [
+        null,
+        606870000000,
+        "Moscow"
+      ],
+      [
+        606870000000,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Europe/Tirane": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Ulyanovsk": [
+      [
+        695779200000,
+        1459033200000,
+        "Moscow"
+      ],
+      [
+        1459033200000,
+        null,
+        "Samara"
+      ]
+    ],
+    "Europe/Vaduz": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Vatican": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Vienna": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Vilnius": [
+      [
+        null,
+        606870000000,
+        "Moscow"
+      ],
+      [
+        606870000000,
+        891133200000,
+        "Europe_Eastern"
+      ],
+      [
+        891133200000,
+        941331600000,
+        "Europe_Central"
+      ],
+      [
+        941331600000,
+        null,
+        "Europe_Eastern"
+      ]
+    ],
+    "Europe/Volgograd": [
+      [
+        null,
+        1609020000000,
+        "Volgograd"
+      ],
+      [
+        1609020000000,
+        null,
+        "Moscow"
+      ]
+    ],
+    "Europe/Warsaw": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Zagreb": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Europe/Zurich": [
+      [
+        null,
+        null,
+        "Europe_Central"
+      ]
+    ],
+    "Indian/Antananarivo": [
+      [
+        null,
+        null,
+        "Africa_Eastern"
+      ]
+    ],
+    "Indian/Chagos": [
+      [
+        null,
+        null,
+        "Indian_Ocean"
+      ]
+    ],
+    "Indian/Christmas": [
+      [
+        null,
+        null,
+        "Christmas"
+      ]
+    ],
+    "Indian/Cocos": [
+      [
+        null,
+        null,
+        "Cocos"
+      ]
+    ],
+    "Indian/Comoro": [
+      [
+        null,
+        null,
+        "Africa_Eastern"
+      ]
+    ],
+    "Indian/Kerguelen": [
+      [
+        null,
+        null,
+        "French_Southern"
+      ]
+    ],
+    "Indian/Mahe": [
+      [
+        null,
+        null,
+        "Seychelles"
+      ]
+    ],
+    "Indian/Maldives": [
+      [
+        null,
+        null,
+        "Maldives"
+      ]
+    ],
+    "Indian/Mauritius": [
+      [
+        null,
+        null,
+        "Mauritius"
+      ]
+    ],
+    "Indian/Mayotte": [
+      [
+        null,
+        null,
+        "Africa_Eastern"
+      ]
+    ],
+    "Indian/Reunion": [
+      [
+        null,
+        null,
+        "Reunion"
+      ]
+    ],
+    "Pacific/Apia": [
+      [
+        null,
+        null,
+        "Apia"
+      ]
+    ],
+    "Pacific/Auckland": [
+      [
+        null,
+        null,
+        "New_Zealand"
+      ]
+    ],
+    "Pacific/Bougainville": [
+      [
+        null,
+        1419696000000,
+        "Papua_New_Guinea"
+      ]
+    ],
+    "Pacific/Chatham": [
+      [
+        null,
+        null,
+        "Chatham"
+      ]
+    ],
+    "Pacific/Easter": [
+      [
+        null,
+        null,
+        "Easter"
+      ]
+    ],
+    "Pacific/Efate": [
+      [
+        null,
+        null,
+        "Vanuatu"
+      ]
+    ],
+    "Pacific/Enderbury": [
+      [
+        null,
+        null,
+        "Phoenix_Islands"
+      ]
+    ],
+    "Pacific/Fakaofo": [
+      [
+        null,
+        null,
+        "Tokelau"
+      ]
+    ],
+    "Pacific/Fiji": [
+      [
+        null,
+        null,
+        "Fiji"
+      ]
+    ],
+    "Pacific/Funafuti": [
+      [
+        null,
+        null,
+        "Tuvalu"
+      ]
+    ],
+    "Pacific/Galapagos": [
+      [
+        null,
+        504939600000,
+        "Ecuador"
+      ],
+      [
+        504939600000,
+        null,
+        "Galapagos"
+      ]
+    ],
+    "Pacific/Gambier": [
+      [
+        null,
+        null,
+        "Gambier"
+      ]
+    ],
+    "Pacific/Guadalcanal": [
+      [
+        null,
+        null,
+        "Solomon"
+      ]
+    ],
+    "Pacific/Guam": [
+      [
+        null,
+        977493600000,
+        "Guam"
+      ],
+      [
+        977493600000,
+        null,
+        "Chamorro"
+      ]
+    ],
+    "Pacific/Honolulu": [
+      [
+        null,
+        null,
+        "Hawaii"
+      ]
+    ],
+    "Pacific/Kiritimati": [
+      [
+        null,
+        null,
+        "Line_Islands"
+      ]
+    ],
+    "Pacific/Kosrae": [
+      [
+        null,
+        null,
+        "Kosrae"
+      ]
+    ],
+    "Pacific/Kwajalein": [
+      [
+        null,
+        745934400000,
+        "Kwajalein"
+      ],
+      [
+        745934400000,
+        null,
+        "Marshall_Islands"
+      ]
+    ],
+    "Pacific/Majuro": [
+      [
+        null,
+        null,
+        "Marshall_Islands"
+      ]
+    ],
+    "Pacific/Marquesas": [
+      [
+        null,
+        null,
+        "Marquesas"
+      ]
+    ],
+    "Pacific/Midway": [
+      [
+        null,
+        436363200000,
+        "Bering"
+      ],
+      [
+        436363200000,
+        null,
+        "Samoa"
+      ]
+    ],
+    "Pacific/Nauru": [
+      [
+        null,
+        null,
+        "Nauru"
+      ]
+    ],
+    "Pacific/Niue": [
+      [
+        null,
+        null,
+        "Niue"
+      ]
+    ],
+    "Pacific/Norfolk": [
+      [
+        null,
+        null,
+        "Norfolk"
+      ]
+    ],
+    "Pacific/Noumea": [
+      [
+        null,
+        null,
+        "New_Caledonia"
+      ]
+    ],
+    "Pacific/Pago_Pago": [
+      [
+        null,
+        436363200000,
+        "Bering"
+      ],
+      [
+        436363200000,
+        null,
+        "Samoa"
+      ]
+    ],
+    "Pacific/Palau": [
+      [
+        null,
+        null,
+        "Palau"
+      ]
+    ],
+    "Pacific/Pitcairn": [
+      [
+        null,
+        null,
+        "Pitcairn"
+      ]
+    ],
+    "Pacific/Ponape": [
+      [
+        null,
+        null,
+        "Ponape"
+      ]
+    ],
+    "Pacific/Port_Moresby": [
+      [
+        null,
+        null,
+        "Papua_New_Guinea"
+      ]
+    ],
+    "Pacific/Rarotonga": [
+      [
+        null,
+        null,
+        "Cook"
+      ]
+    ],
+    "Pacific/Saipan": [
+      [
+        null,
+        977493600000,
+        "North_Mariana"
+      ],
+      [
+        977493600000,
+        null,
+        "Chamorro"
+      ]
+    ],
+    "Pacific/Tahiti": [
+      [
+        null,
+        null,
+        "Tahiti"
+      ]
+    ],
+    "Pacific/Tarawa": [
+      [
+        null,
+        null,
+        "Gilbert_Islands"
+      ]
+    ],
+    "Pacific/Tongatapu": [
+      [
+        null,
+        null,
+        "Tonga"
+      ]
+    ],
+    "Pacific/Truk": [
+      [
+        null,
+        null,
+        "Truk"
+      ]
+    ],
+    "Pacific/Wake": [
+      [
+        null,
+        null,
+        "Wake"
+      ]
+    ],
+    "Pacific/Wallis": [
+      [
+        null,
+        null,
+        "Wallis"
+      ]
+    ]
+  },
+  "names": {
+    "Alaska": {
+      "daylight": "AKDT",
+      "generic": "AKT",
+      "standard": "AKST"
+    },
+    "America_Central": {
+      "daylight": "CDT",
+      "generic": "CT",
+      "standard": "CST"
+    },
+    "America_Eastern": {
+      "daylight": "EDT",
+      "generic": "ET",
+      "standard": "EST"
+    },
+    "America_Mountain": {
+      "daylight": "MDT",
+      "generic": "MT",
+      "standard": "MST"
+    },
+    "America_Pacific": {
+      "daylight": "PDT",
+      "generic": "PT",
+      "standard": "PST"
+    },
+    "Atlantic": {
+      "daylight": "ADT",
+      "generic": "AT",
+      "standard": "AST"
+    },
+    "GMT": {
+      "standard": "GMT"
+    },
+    "Hawaii": {
+      "standard": "HST"
+    },
+    "Hawaii_Aleutian": {
+      "daylight": "HADT",
+      "generic": "HAT",
+      "standard": "HAST"
+    }
+  }
+}

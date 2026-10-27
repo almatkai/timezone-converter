@@ -1,0 +1,28 @@
+[package]
+name = "timezone-converter-v2"
+version = "2.0.0"
+edition = "2021"
+rust-version = "1.85"
+license = "MIT"
+publish = false
+
+[dependencies]
+tezbar-extension-sdk = { version = "=0.1.1", git = "https://github.com/almatkai/tezbar-extension-sdk-rust.git", rev = "e955911f0bf5b558f9d3eb5183df0adc95c22af2" }
+serde = { version = "=1.0.228", features = ["derive"] }
+serde_json = "=1.0.145"
+tokio = { version = "=1.48.0", features = ["rt-multi-thread", "macros", "sync", "time"] }
+chrono = { version = "=0.4.42", default-features = false, features = ["std", "clock", "serde"] }
+tz-rs = "=0.7.0"
+tzdb = { version = "=0.7.2", default-features = false }
+tzdb_data = "=0.2.4"
+iana-time-zone = "=0.1.64"
+base64 = "=0.22.1"
+tempfile = "=3.23.0"
+uuid = { version = "=1.23.3", features = ["v4"] }
+
+[[bin]]
+name = "timezone-converter"
+path = "src/main.rs"
+
+[dev-dependencies]
+semver = "=1.0.27"

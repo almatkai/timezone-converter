@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/unicode-org/cldr",
+  "commit": "acd6d88ae493633240e19a87a721076a8a75c310",
+  "version": "48",
+  "inputs": {
+    "LICENSE": "b4c0ae8ef04f7059f96ce5bbe0467f9fe6f6d81bbe13517701dfeb961fb4d0b6",
+    "pin.json": "d7bb9932f461f4ccee8699b717fb26e4b16922db181e55266d02de06c8b9e500",
+    "common/supplemental/metaZones.xml": "985247ef22cfb5d1af6c91ceb34f255e392a3569247904afb7839ba3bc1a12d6",
+    "common/main/en.xml": "416fb34c500e969a9e3e9bd1e363f8af5938df3cdda72aa7e636fa7e72123aae"
+  }
+}

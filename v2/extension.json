@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 3,
+  "id": "com.tezbar.native.timezone-converter",
+  "slug": "timezone-converter",
+  "name": "Timezone Converter",
+  "version": "2.0.0",
+  "description": "Converts any time to any timezone",
+  "icon": "resources/command-icon.png",
+  "runtime": "rust",
+  "execution": "process",
+  "protocolVersion": 1,
+  "repository": "https://github.com/almatkai/timezone-converter",
+  "platforms": [
+    "macOS",
+    "Windows"
+  ],
+  "replaces": [
+    "com.tezbar.timezone-converter",
+    "raycast.timezone-converter"
+  ],
+  "commands": [
+    {
+      "name": "index",
+      "title": "Timezone Converter",
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "mode": "view",
+      "concurrency": "serialize",
+      "refreshMs": null
+    }
+  ],
+  "preferences": [
+    {
+      "name": "sortTimezones",
+      "description": "Sort added timezones",
+      "type": "dropdown",
+      "required": true,
+      "title": "Sort Options",
+      "placeholder": "Sort the list of added timezones",
+      "data": [
+        {
+          "title": "Sort Alphabetically",
+          "value": "alphabetically"
+        },
+        {
+          "title": "Sort Manually",
+          "value": "manually"
+        }
+      ]
+    },
+    {
+      "name": "hideWorldMap",
+      "description": "Hide world map to display more time zones in the list",
+      "label": "Hide World Map",
+      "type": "checkbox",
+      "required": false,
+      "title": "Hide World Map",
+      "default": false
+    }
+  ],
+  "capabilities": [
+    "storage"
+  ],
+  "artifacts": {},
+  "verification": [
+    {
+      "platform": "macOS",
+      "state": "not-run",
+      "note": "Native host acceptance pending; development tests are not acceptance."
+    },
+    {
+      "platform": "Windows",
+      "state": "not-run",
+      "note": "Native host acceptance pending; development tests are not acceptance."
+    }
+  ]
+}
