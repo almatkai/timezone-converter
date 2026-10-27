@@ -1,0 +1,178 @@
+{
+  "commit": "6734d85992290066fd31a7f5bee3cca3d3545a1a",
+  "files": [
+    {
+      "path": "assets/command-icon.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/command-icon.png",
+      "sha256": "71a3e94c18b7465d05ac0d7a897a14bb49f4c1d92797b3911813aca15f8b6dd5",
+      "bytes": 94019
+    },
+    {
+      "path": "assets/timezones/UTC-8.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC-8.png",
+      "sha256": "aaf84fe74db0206ee972efd454a9f7b76cd6bbc522bbdfa1af26f91ce4466b50",
+      "bytes": 37826
+    },
+    {
+      "path": "assets/timezones/UTC-9.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC-9.png",
+      "sha256": "19c10d59dfd1e95ea3f74f59809b29f4d63052b7a6b753f579f7e5dfe5e471f9",
+      "bytes": 40650
+    },
+    {
+      "path": "assets/timezones/UTC.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC.png",
+      "sha256": "bea7e964933ade79519b05c2d31646a4b224476342e1b815ead108920d257313",
+      "bytes": 41498
+    },
+    {
+      "path": "assets/timezones/UTC+8.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC+8.png",
+      "sha256": "949f43e2d4203dedcfd30b23474ea3ea65ad98433432b82de7513555c200dc86",
+      "bytes": 43514
+    },
+    {
+      "path": "assets/timezones/UTC+9.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC+9.png",
+      "sha256": "798f45d368c458efe5126c9d0f727c05861bd0e415502be5792f7266256e9a16",
+      "bytes": 42909
+    },
+    {
+      "path": "assets/timezones/UTC+4.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC+4.png",
+      "sha256": "3fa8001b571bc353e65e6c493de5d9934e56d0801e92ed478bebc838430d1be8",
+      "bytes": 41681
+    },
+    {
+      "path": "assets/timezones/UTC+12.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC+12.png",
+      "sha256": "de2168382be9602803771266d465c3d772be610e55155e2008d6868d759f60de",
+      "bytes": 41480
+    },
+    {
+      "path": "assets/timezones/UTC+5.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC+5.png",
+      "sha256": "23f59dc9a7236f2ae9bc891290018699bbe2f0a1d251050cd6fad7c87275cb41",
+      "bytes": 41348
+    },
+    {
+      "path": "assets/timezones/UTC+7.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC+7.png",
+      "sha256": "3c7f49b4aff530405e0a36424bc68fbcac2552f9f2e0bbd03a09cf45f2a89e98",
+      "bytes": 39840
+    },
+    {
+      "path": "assets/timezones/UTC+11.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC+11.png",
+      "sha256": "4644a430e5418ed6dbadc2fe40903b65bcfb17438332221caff29150ceedd4f8",
+      "bytes": 41408
+    },
+    {
+      "path": "assets/timezones/UTC+10.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC+10.png",
+      "sha256": "fe8c826d46be067a963dece9442145aa58d92e28dc7e195a165d16822511555c",
+      "bytes": 42356
+    },
+    {
+      "path": "assets/timezones/UTC+6.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC+6.png",
+      "sha256": "5b87c9019095c113e8352dc6e295283497417c5e0b2835f176101486cea17fd5",
+      "bytes": 41939
+    },
+    {
+      "path": "assets/timezones/UTC+2.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC+2.png",
+      "sha256": "0dceeca01bdd78415444f3ae44d2df912bd6a8ec21080503a31328283b19e7d3",
+      "bytes": 42301
+    },
+    {
+      "path": "assets/timezones/UTC-12.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC-12.png",
+      "sha256": "04f4772d4025aa39bf65d8ec85e43c935a5426f47f6d45b9dc44e76e60a88572",
+      "bytes": 40896
+    },
+    {
+      "path": "assets/timezones/UTC+3.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC+3.png",
+      "sha256": "a417863aad5d92449a1c7a1f1610fa079499326bd1ae975473ff83079570158b",
+      "bytes": 40468
+    },
+    {
+      "path": "assets/timezones/UTC+1.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC+1.png",
+      "sha256": "e7f80f857e39bc80ab59af2ee49c754798963a8340fed383dcb9e275a9fcf0c7",
+      "bytes": 42672
+    },
+    {
+      "path": "assets/timezones/UTC-11.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC-11.png",
+      "sha256": "04f4772d4025aa39bf65d8ec85e43c935a5426f47f6d45b9dc44e76e60a88572",
+      "bytes": 40896
+    },
+    {
+      "path": "assets/timezones/UTC-10.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC-10.png",
+      "sha256": "336c83c02199cf7d4f2a4b75a0b7b662530cbf9a8afdaf0aa523c4e77cfc9600",
+      "bytes": 37311
+    },
+    {
+      "path": "assets/timezones/UTC-7.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC-7.png",
+      "sha256": "f12967a06aaee7e3910824dee3fd875dfe70cd351b3e7688b46581c5ab4c7d12",
+      "bytes": 41238
+    },
+    {
+      "path": "assets/timezones/UTC-6.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC-6.png",
+      "sha256": "3913b6bd50b56cf6f99c8885a7ac364aa8a93c23807d01d5f9e57a36f7e35a24",
+      "bytes": 40354
+    },
+    {
+      "path": "assets/timezones/UTC-4.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC-4.png",
+      "sha256": "52d7bb8ec90c2a700ad01689bf55a2b354378f1baf36c3862ba2965b396c601b",
+      "bytes": 42572
+    },
+    {
+      "path": "assets/timezones/UTC-5.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC-5.png",
+      "sha256": "01f9cf8cb1a66eca2c2ed794615f7ea68d8489f671776e876f3c25d7469e9c14",
+      "bytes": 41756
+    },
+    {
+      "path": "assets/timezones/UTC-1.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC-1.png",
+      "sha256": "9d961f4e0e8f5fce620b3dfeec889432ddf96f2738145cf24584a1a425feea18",
+      "bytes": 40703
+    },
+    {
+      "path": "assets/timezones/UTC-2.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC-2.png",
+      "sha256": "099047bf4c0b6f774a91e68f43f3305ee8aad73c9ffd8c7dd0cca205f74c2a5a",
+      "bytes": 39629
+    },
+    {
+      "path": "assets/timezones/UTC-3.png",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/assets/timezones/UTC-3.png",
+      "sha256": "ad938b3218bdc609d6f6d9285d5924c2db74412d636d257b6e6160094780cd18",
+      "bytes": 41614
+    },
+    {
+      "path": "package.json",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/package.json",
+      "sha256": "3e3c5358e350d8d3efbce839298cf33a1b0f96e09fd1099f8024874c56db5bf7",
+      "bytes": 1861
+    },
+    {
+      "path": "README.md",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/README.md",
+      "sha256": "7da06dc75659de36fd55b71f32016fa43bd1b0375336f1bc2c170a63f6f769f1",
+      "bytes": 515
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/timezone-converter/LICENSE",
+      "http": 404
+    }
+  ]
+}

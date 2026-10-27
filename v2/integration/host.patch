@@ -1,0 +1,38 @@
+--- a/src/renderer/ExtensionRuntimeView.tsx
++++ b/src/renderer/ExtensionRuntimeView.tsx
+@@ -541,6 +541,7 @@
+         searchText,
+       })
+       if (requestSeq !== searchRequestSeq.current || currentSession.current !== sessionOwner) return
++      if (result.ok && result.mode === 'unchanged') return
+ 
+       if (!result.ok) {
+         console.error('[RuntimeView] Search failed:', result.message)
+@@ -638,6 +639,7 @@
+               })
+ 
+               if (currentSession.current !== sessionOwner) return
++              if (result.ok && result.mode === 'unchanged') return
+               if (!result.ok) {
+                 setError(result.message)
+                 showActionFailure(result.message)
+--- a/src/renderer/src/raycast-api/list-runtime.tsx
++++ b/src/renderer/src/raycast-api/list-runtime.tsx
+@@ -559,7 +559,7 @@
+   }, [searchAccessory])
+ 
+   useEffect(() => {
+-    if (query === lastSentQuery.current) return
++    if (!hasServerSearch || query === lastSentQuery.current) return
+     if (debounceTimer.current) {
+       clearTimeout(debounceTimer.current)
+     }
+@@ -572,7 +572,7 @@
+         clearTimeout(debounceTimer.current)
+       }
+     }
+-  }, [query, onSearchTextChanged])
++  }, [query, onSearchTextChanged, hasServerSearch])
+ 
+   const colorConversionRows = useMemo<ListRow[]>(() => {
+     if (!isColorConversionSurface) return []

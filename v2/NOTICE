@@ -1,0 +1,24 @@
+Timezone Converter standalone native V2, 2026 almatkai.
+Own V1: 784f7d1c1743ee6228f26a2384f925475cfb11e9.
+Original extension: joao.mainka; contributors pernielsentikaer and ridemountainpig.
+Raycast extensions commit 6734d85992290066fd31a7f5bee3cca3d3545a1a,
+extensions/timezone-converter. Icon and all 25 world-map PNGs are exact bytes.
+The upstream manifest declares MIT. The extension directory contains no LICENSE
+at that commit (HTTP 404). The repository root MIT LICENSE (2021 Raycast) is
+reproduced in legal/raycast-root-LICENSE; no separate asset authorship is asserted.
+See legal/upstream-assets.json and legal/upstream-package.json for evidence.
+Own V1 LICENSE bytes are retained in legal/OWN-V1-LICENSE; LICENSE normalizes
+that file's literal backslash-n delimiters for the new V2 code.
+
+SDK 0.1.1, Apache-2.0: e955911f0bf5b558f9d3eb5183df0adc95c22af2.
+Exact SDK LICENSE and NOTICE are included under legal/.
+Timezone calculations: tz-rs 0.7.0 / tzdb 0.7.2 / tzdb_data 0.2.4 (IANA 2026a).
+IANA backward links reproduce ICU's non-backzone historical model.
+English timezone short names and metazone intervals derive from Unicode CLDR 48,
+commit acd6d88ae493633240e19a87a721076a8a75c310, under Unicode License V3.
+See legal/CLDR-LICENSE, legal/IANA-LICENSE, and exact input pin records.
+Locked Rust archive license declarations, checksums and authentic notice files
+are in legal/dependencies.json and legal/dependencies/. Where an archive has no
+license text, the evidence gap is recorded rather than inventing a grant.
+Host source fixtures are test inputs only; they are excluded from the executable
+package. Their pinned license and source hashes are retained in legal/HOST-LICENSE and integration/host-pins.json.

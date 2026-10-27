@@ -1,0 +1,32 @@
+{
+  "own": {
+    "commit": "784f7d1c1743ee6228f26a2384f925475cfb11e9",
+    "repository": "https://github.com/almatkai/timezone-converter"
+  },
+  "sdk": {
+    "commit": "e955911f0bf5b558f9d3eb5183df0adc95c22af2",
+    "version": "0.1.1",
+    "repository": "https://github.com/almatkai/tezbar-extension-sdk-rust"
+  },
+  "host": {
+    "commit": "ea100cee3f69711de12485ba061950c5fc65258f",
+    "licenseSha256": "0ed6b1b2760294d4aaaa45be38e166fcc0168e1dd5190423c096fcbe1c94afbf"
+  },
+  "iana": {
+    "version": "2026a",
+    "url": "https://data.iana.org/time-zones/releases/tzdata2026a.tar.gz",
+    "archiveSha256": "77b541725937bb53bd92bd484c0b43bec8545e2d3431ee01f04ef8f2203ba2b7",
+    "backwardSha256": "d2f4c8953f204982ddf4dc0c2debf41b2464de376dad7d546d0fc70f889fa706"
+  },
+  "raycastRootLicense": {
+    "url": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/LICENSE",
+    "sha256": "7f727f8b20cdd0e65f84e70b9cac2fce337dcecee4dc88955eb012ea27f02755"
+  },
+  "oracle": {
+    "luxon": "3.3.0",
+    "node": "26.7.0",
+    "icu": "78.3",
+    "cldr": "48.0",
+    "tz": "2026a"
+  }
+}

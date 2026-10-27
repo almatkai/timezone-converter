@@ -1,0 +1,13 @@
+{
+  "commit": "ea100cee3f69711de12485ba061950c5fc65258f",
+  "files": {
+    "src/renderer/ExtensionRuntimeView.tsx": "c8378d1a1cc91cf622f81dc1bd88ed986ea2e9c396f7ff497e649171f573c5e8",
+    "src/renderer/src/raycast-api/list-runtime.tsx": "c7e253c34ce6e0a5132cab96bf1f0388393faca79ff57c3fdc7956f377a0ab0f",
+    "src/renderer/src/raycast-api/form-runtime.tsx": "8568d0ac5be03eea97d0def38067dbbbdce5ae97c36a51024857ef20dce299a6",
+    "src/renderer/src/raycast-api/detail-runtime.tsx": "32eecb50891e0f282bd3d78d8a38193ec24540bf70c3fdc8e43a1d368c97d54c",
+    "src-tauri/src/native_core/extensions/native.rs": "f11d1f436fa5f9b045a7ac25f3516adb0efc6d4c12ce1f0f0c4768940fafe16f",
+    "src-tauri/src/native_core/extensions/process_install.rs": "1fc130d58703f80db0c5255d31a1e31b9f4e1a67876f98f86ceae7ede6363ee7",
+    "src-tauri/src/native_core/extensions/launcher.rs": "5f76c73ef2a945dfeb9967784aae1f13286ec178ad8c77a225ae7c150cdd6133",
+    "schemas/extension-v3.schema.json": "6f42f0316aa88097703496e828b11afcc7caecf8477fa7502df903c3ad2a8048"
+  }
+}
